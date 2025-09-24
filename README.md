@@ -1,16 +1,41 @@
-## Hi there 👋
+#
+<p align="center"> 
+Salwa Faradilla Agasia 🌸
+</p>
+<p align="center">
+Mahasiswa Teknik Informatika di STIKOM Yos Sudarso System Analys
+</p>
 
-<!--
-**SalwaAgasia/SalwaAgasia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Learn-ff66b2?style=for-the-badge" alt="status" />
+  <img src="https://img.shields.io/badge/Role-System%20Analyst-ff66b2?style=for-the-badge" alt="role" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ✨ Tentang Saya
+Halo — aku **Salwa**.Mahasiswa semester Teknik Informatika di STIKOM Yos Sudarso dengan ketertarikan kuat pada
+teknologi informasi, khususnya dalam analisis data dan pengembangan solusi berbasis kebutuhan
+pengguna. Saat ini mengikuti bootcamp intensif di Lintang Academy dengan fokus pada penggunaan
+tools digital.
+Siap berkontribusi dalam proyek atau posisi yang berhubungan dengan
+pengolahan data, sistem informasi, maupun pengembangan solusi digital berbasis kebutuhan
+pengguna.
+
+## 🛠️ Keahlian 
+- **Konsep & Tools:** UML, Requirement Gathering, Analisis Sistem, Git & GitHub  
+- **Soft Skills:** Komunikasi, Problem Solving, Presentasi, Dokumentasi
+
+
+## 📚 Sedang Dipelajari  
+- Business Process Modelling   
+- Penguatan SQL dan desain basis data
+
+
+## ✉️ Kontak
+- Email: **salwafaradillaagasia@gmail.com**   
+- Instagram: **salwafaradilla**
+  
+---
+
+
