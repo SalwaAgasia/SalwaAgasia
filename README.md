@@ -3,12 +3,7 @@
 Salwa Faradilla Agasia 🌸
 </p>
 <p align="center">
-Mahasiswa Teknik Informatika di STIKOM Yos Sudarso System Analys
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Learn-ff66b2?style=for-the-badge" alt="status" />
-  <img src="https://img.shields.io/badge/Role-System%20Analyst-ff66b2?style=for-the-badge" alt="role" />
+Mahasiswa Teknik Informatika di STIKOM Yos Sudarso
 </p>
 
 ---
@@ -22,17 +17,17 @@ Siap berkontribusi dalam proyek atau posisi yang berhubungan dengan
 pengolahan data, sistem informasi, maupun pengembangan solusi digital berbasis kebutuhan
 pengguna.
 
-## 🛠️ Keahlian 
+##  Keahlian 
 - **Konsep & Tools:** UML, Requirement Gathering, Analisis Sistem, Git & GitHub  
 - **Soft Skills:** Komunikasi, Problem Solving, Presentasi, Dokumentasi
 
 
-## 📚 Sedang Dipelajari  
+##  Sedang Dipelajari  
 - Business Process Modelling   
 - Penguatan SQL dan desain basis data
 
 
-## ✉️ Kontak
+##  Kontak
 - Email: **salwafaradillaagasia@gmail.com**   
 - Instagram: **salwafaradilla**
   
